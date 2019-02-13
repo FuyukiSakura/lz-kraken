@@ -2,7 +2,7 @@
 
 大聲團海怪製造機
 
-# Usage
+## Usage
 
 ```cli
 tsc && node ./lib/index.js
