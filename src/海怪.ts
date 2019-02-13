@@ -1,15 +1,22 @@
-export class 海怪 {
+/**
+ * Kraken object
+ */
+export class 海怪 implements 生物 {
     /**
-     * Gets if the kraken is able to Full Combo
+     * @inheritdoc
      */
-    public fc(){
+    public fc(): boolean {
         return true;
     }
 
     /**
-     * Gets if the kraken is able to All Perfect
+     * @inheritdoc
      */
-    public ap(){
+    public ap(): boolean {
         return true;
-    } 
+    }
+
+    public fail(): boolean {
+        return false;
+    }
 }
