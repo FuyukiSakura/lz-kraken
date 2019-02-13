@@ -15,4 +15,5 @@ The project welcomes all kinds of contributions. This is aim to provide users wi
 ## License
 
 Copyright (c) UTOSOFT. All rights reserved.
-Licensed under the MIT License.
+
+Licensed under the [MIT](LICENSE) License.
