@@ -1,0 +1,26 @@
+{
+  "name": "lz-kraken",
+  "version": "0.0.1",
+  "description": "lz krakens!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test available\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KokomiShiina/lz-kraken.git"
+  },
+  "keywords": [
+    "kraken",
+    "lz"
+  ],
+  "author": "Eric Lam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KokomiShiina/lz-kraken/issues"
+  },
+  "homepage": "https://github.com/KokomiShiina/lz-kraken#readme",
+  "dependencies": {
+    "tslint": "^5.12.1"
+  }
+}
